@@ -51,17 +51,17 @@ module.exports = {
             //   enumValues: './pascalCaseWithUnderscores',
             // },
           },
-        // 'src/lib/datocms.schema.json': {
-        //   plugins: [
-        //     'introspection',
-        //   ],
-        //   config: {
-        //     dedupeFragments: true,
-        //     pureMagicComment: true,
-        //     exportFragmentSpreadSubTypes: true,
-        //     namingConvention: 'keep',
-        //   },
-        // },
+          // 'src/lib/datocms.schema.json': {
+          //   plugins: [
+          //     'introspection',
+          //   ],
+          //   config: {
+          //     dedupeFragments: true,
+          //     pureMagicComment: true,
+          //     exportFragmentSpreadSubTypes: true,
+          //     namingConvention: 'keep',
+          //   },
+          // },
         },
       },
     },
